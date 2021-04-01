@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with my community projects
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCVvyfiGiY29DZzQS_g3U4tQ)
+- 📫 How to contact me: [LinkedIn](https://www.linkedin.com/in/salinda-jayasundara-09b61b174)
 - 📌 YouTube Content Creator 😍🖥
 - ⚡ Fun fact: Love to play cricket and volleyball
 -->

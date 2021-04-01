@@ -1,6 +1,6 @@
 ### Hi I'm Salinda <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🏢 Former Intern Software Developer at Sri Lanka Telecome(pvt)Ltd
+- 🏢 Former Intern Software Developer at Sri Lanka Telecom(pvt)Ltd
 - 👯 I’m looking to collaborate on community projects
 - 🤔 I’m looking for help with my community projects
 - 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCVvyfiGiY29DZzQS_g3U4tQ)

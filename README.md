@@ -1,10 +1,5 @@
 ### Hi I'm Salinda 👋
 
-<!--
-**salinda93/salinda93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🏢 Former Intern Software Developer at Sri Lanka Telecome(pvt)Ltd
 👯 I’m looking to collaborate on community projects
 🤔 I’m looking for help with my community projects

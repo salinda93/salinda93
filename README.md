@@ -10,8 +10,8 @@
 
  <h2> 📈 Stats </h2>
   <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=elguneminov&count_private=true&show_icons=true"><br>
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elguneminov&langs_count=1000&layout=compact">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=salinda93&count_private=true&show_icons=true"><br>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salinda93&langs_count=1000&layout=compact">
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
